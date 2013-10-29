@@ -1,0 +1,3 @@
+LIBRARY libninety47-stats
+
+EXPORTS pearsons
